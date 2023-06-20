@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBotTest", "AzureBotTest\AzureBotTest.csproj", "{AB472605-7DEA-481F-8DEE-02AC987A2104}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureBotTest.Tests", "AzureBotTest.Tests\AzureBotTest.Tests.csproj", "{B9402749-6D2D-40D4-BA15-626C2AD9ED92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB472605-7DEA-481F-8DEE-02AC987A2104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB472605-7DEA-481F-8DEE-02AC987A2104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB472605-7DEA-481F-8DEE-02AC987A2104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB472605-7DEA-481F-8DEE-02AC987A2104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9402749-6D2D-40D4-BA15-626C2AD9ED92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9402749-6D2D-40D4-BA15-626C2AD9ED92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9402749-6D2D-40D4-BA15-626C2AD9ED92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9402749-6D2D-40D4-BA15-626C2AD9ED92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DDB412-D0D1-4D48-908B-27FA5E4C1F73}
+	EndGlobalSection
+EndGlobal
