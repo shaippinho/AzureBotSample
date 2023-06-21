@@ -10,7 +10,7 @@ NGrok
 Bot Emulator
 ```
 ## Fontes: 
-Como provisionar Realizar o deploy de um Bot Service no Azure em 2023-> [Deploy Microsoft Azure Bot to Azure App Service](https://www.youtube.com/watch?v=RTq72C10x88)
+Como provisionar Realizar o deploy de um Bot Service no Azure em 2023-> [Deploy Microsoft Azure Bot to Azure App Service](https://www.youtube.com/watch?v=5VnvGXMBnZI)
 
 Como testar o bot via Postman/Insomnia-> [DirectLineAPI - Testing with custom client](https://thewebspark.com/2018/04/15/directlineapi-testing-with-custom-client-and-postman-microsoft-bot-framework/)
 
