@@ -1,5 +1,7 @@
 # Azure Bot Service com CI/CD
 
+[![Build and deploy ASP.Net Core app to Azure Web App - BotTeste3AzulWeb](https://github.com/shaippinho/AzureBotSample/actions/workflows/main_botteste3azulweb.yml/badge.svg)](https://github.com/shaippinho/AzureBotSample/actions/workflows/main_botteste3azulweb.yml)
+
 ## Tecnologias
 
 ```
