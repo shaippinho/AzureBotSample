@@ -1,7 +1,5 @@
 # Azure Bot Service com CI/CD
 
-API simples, utilizando Spring Boot e Azure OpenAPI modelo Text Davinci 03
-
 ## Tecnologias
 
 ```
